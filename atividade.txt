@@ -1,0 +1,18 @@
+1. definir o movimento do robo em quadrados (50x50) para que o movimento fique melhor definido para a atividade
+2. definir a posição dos obstaculos (criar um grid 7x7)
+3. mostrar o grid antes de começar
+4. deixar "tudo escuro" e mostrar somente o personagem.
+5. se o personagem se movimentar para um área com obstaculo, não permitir e emitir aviso
+6. caso o aluno erre 3 vezes, ele começa do inicio
+
+
+outra opção:
+o aluno entra o input inteiro no começo e observa se o robô faz corretamente.
+caso não, ele precisa corrigir o código todo para poder continuar.
+
+criar pelo menos 5 mapas para os alunos brincarem.
+sempre mostrar o grid no começo para o aluno criar o código 
+
+os comandos serão aceitos no formato texto: 
+GIRAR O ROBÔ: CIMA, BAIXO, DIREITA, ESQUERDA
+MOVIMENTAR: ANDAR X
